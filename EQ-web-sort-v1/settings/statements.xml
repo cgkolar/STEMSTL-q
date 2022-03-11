@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+   <statements version="1.0" htmlParse="false">
+     <statement id="1">Ham Sandwich (1)</statement>
+     <statement id="2">Soup (2)</statement>
+     <statement id="3">Water (3)</statement>
+     <statement id="4">Apple (4)</statement>
+     <statement id="5">Leftovers (5)</statement>
+     <statement id="6">Carryout (6)</statement>
+     <statement id="7">Frozen Meal (7)</statement>
+     <statement id="8">Drive through (8)</statement>
+     <statement id="9">Salad (9)</statement>
+   </statements>
